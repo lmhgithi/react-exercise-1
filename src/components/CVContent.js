@@ -17,4 +17,4 @@ const CVContent = () => {
   );
 };
 
-export default CVContent();
+export default CVContent;

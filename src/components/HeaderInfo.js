@@ -11,4 +11,4 @@ const HeaderInfo = () => {
   );
 };
 
-export default HeaderInfo();
+export default HeaderInfo;
