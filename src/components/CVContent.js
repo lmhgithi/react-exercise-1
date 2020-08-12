@@ -1,5 +1,5 @@
 import React from 'react';
-import educationInfo from './EducationInfo';
+import EducationInfo from './EducationInfo';
 
 const CVContent = () => {
   return (
@@ -12,7 +12,7 @@ const CVContent = () => {
         Quasi
       </p>
       <h3>EDUCATION</h3>
-      {educationInfo}
+      <EducationInfo />
     </section>
   );
 };
